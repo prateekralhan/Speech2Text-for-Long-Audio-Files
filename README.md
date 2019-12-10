@@ -42,3 +42,4 @@ Speaker Diarization is a process of distinguishing speakers in an audio file. I 
 
 ![trascribe2](https://user-images.githubusercontent.com/29462447/70485182-37f01c00-1b14-11ea-8c09-cc4ca9a98858.png)
 
+#### Now, why not you go ahead and record some voice notes of yours or some meetings and transcribe them using Speech2Text?? :)
