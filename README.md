@@ -1,6 +1,9 @@
 # Speech2Text-for-Long-Audio-Files
 
-Speech recognition is a fun task. A lot of API resources are available in market today which makes it easier for user to opt for one or another. However, when it comes to audio files like processing lengthy audio files then this becomes quite challenging.I have Google Speech to Text API for performing this operation
+Speech recognition is a fun task. A lot of API resources are available in market today which makes it easier for user to opt for one or another. However, when it comes to audio files like processing lengthy audio files then this becomes quite challenging.I have used Google Speech to Text API for performing this operation.
+
+## A simple Demo:
+https://user-images.githubusercontent.com/29462447/155017259-31b057d9-361b-48dd-8e48-52db5b72480a.mp4
 
 Google Speech to text has three types of API requests based on audio content:
 ![speech1](https://user-images.githubusercontent.com/29462447/70484067-a4691c00-1b10-11ea-9e14-87be7e40a4ad.png)
